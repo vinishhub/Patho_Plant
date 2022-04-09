@@ -1,8 +1,0 @@
-numpy
-pandas
-Flask
-Pillow
-torch
-gunicorn == 20.0.4
-torch == 1.8.0
-torchvision == 0.9.0
