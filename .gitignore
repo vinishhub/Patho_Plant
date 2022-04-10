@@ -1,4 +1,5 @@
 /Models
 /Flask/Models
-/penv
+/leafenv
 /Flask/__pycache__
+/.vscode
