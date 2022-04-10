@@ -1,5 +1,6 @@
 click==8.1.2
 colorama==0.4.4
+Python==3.7.0
 Flask==2.1.1
 gunicorn==20.0.4
 importlib-metadata==4.11.3
