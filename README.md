@@ -51,7 +51,7 @@ This project aims to develop a system for detecting plant diseases using Python 
   
 ## Data
 
-The dataset used in this project is the [PlantVillage](https://plantvillage.psu.edu/) dataset. It contains images of healthy and diseased plant leaves, and the diseases are labeled. The dataset can be downloaded from the [official website](https://plantvillage.psu.edu/download-dataset).
+The dataset used in this project is the [PlantVillage](https://plantvillage.psu.edu/) dataset. It contains images of healthy and diseased plant leaves, and the diseases are labeled. The dataset can be downloaded from the [official website](https://www.kaggle.com/datasets/emmarex/plantdisease).
 
 ## Methodology
 
