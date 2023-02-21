@@ -2,9 +2,12 @@
   "name": "flask",
   "version": "1.0.0",
   "description": "",
-  "main": "templates/index.html",
   "scripts": {
+    "start": "node templates/index.html"
+  },
+  "script":{
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "author": "",
   "license": "ISC"
