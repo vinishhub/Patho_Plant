@@ -60,6 +60,18 @@ The system uses a convolutional neural network (CNN) to classify images into hea
 ## Results
 
 The trained model achieved an accuracy of 95% on the validation set. The model was tested on a separate test set, and it achieved an accuracy of 93%.
+![Screenshot (17)](https://user-images.githubusercontent.com/76252038/222129210-8fe90258-28da-4995-bfdf-f897f74b548e.png)
+
+
+![Screenshot (18)](https://user-images.githubusercontent.com/76252038/222129240-cd9aee3c-ed8f-428b-9651-fb22d835e63b.png)
+
+
+![Screenshot (19)](https://user-images.githubusercontent.com/76252038/222129264-824f9208-5b2c-4eb0-8609-e9111a8d4d25.png)
+
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/76252038/222129327-125987bd-c4cc-46c1-8af9-9f61588adc23.png)
+
 
 ## Contributing
 
