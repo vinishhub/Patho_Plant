@@ -16,8 +16,8 @@ This project aims to develop a system for detecting plant diseases using Python 
 
 1. Clone the repository
 
-       git clone https://github.com/<username>/plant-disease-detection.git
-       cd plant-disease-detection
+       git clone https://github.com/vinishhub/Patho_Plant.git
+       cd Patho_Plant
   
   
 2. Create a virtual environment and activate it
